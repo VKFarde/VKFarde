@@ -32,7 +32,7 @@
   </a>
 </div>
 
- <hr/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -42,7 +42,7 @@
 </div>
 
 <br/>
-<hr/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>Tropfies</h2>
@@ -50,14 +50,14 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VKFarde&theme=monokai" alt="VKFarde" /></a> </p>
   <br/>
 </div>
-<hr/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VKFarde/VKFarde/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-<hr/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center" ">
     <h3 align="center">Stars</h3>
@@ -69,7 +69,6 @@
     <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VKFarde&theme=dark" alt="VKFarde" /></p>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
 <div align="center">
     <h3 align="center">Statistics</h3>
       <br>
