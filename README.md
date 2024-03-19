@@ -48,29 +48,20 @@
   <h2>Tropfies</h2>
   <br>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VKFarde&theme=" alt="VKFarde" /></a> </p>
-
-  <br/><br/><br/>
+  <br/>
 </div>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VKFarde/VKFarde/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center" >
-    <div align="center">
-        <img width=390  align="center" src="https://github-readme-stats.vercel.app/api?username=VKFarde&show_icons=true&size_weight=0.5&count_weight=0.5&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-        <img width=390  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VKFarde&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-      <img src="https://streak-stats.demolab.com?user=VKFarde&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-    </div>
-</div>
-<br/><br/>
-<hr/>
+<div> <a href="https://github.com/VKFarde" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKFarde&langs_count=8&theme=gruvbox" alt=VKFarde />
+
+
 
