@@ -101,7 +101,7 @@
     <h3 align="center">Stars</h3>
       <br>
     <div align="center"  >
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKFarde&layout=compact&theme=shades-of-purple" alt=VKFarde />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKFarde&layout=compact&theme=vue-dark" alt=VKFarde />
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VKFarde&show_icons=true&locale=en&theme=vue-dark" alt="VKFarde" />
     </div>
     <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VKFarde&theme=dark" alt="VKFarde" /></p>
