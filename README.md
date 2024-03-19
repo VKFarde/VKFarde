@@ -59,7 +59,7 @@
 </div>
 <hr/>
 
-<div align="center">
+<div align="center" justify="center">
     <h3 align="left">Stars</h3>
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKFarde&layout=compact&theme=shades-of-purple" alt=VKFarde />
     <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VKFarde&show_icons=true&locale=en&theme=vue-dark" alt="VKFarde" /></p>
