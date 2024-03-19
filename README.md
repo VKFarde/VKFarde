@@ -111,8 +111,6 @@
     <h3 align="center">Statistics</h3>
       <br>
     <a href="https://github.com/VKFarde">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VKFarde&theme=swift" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VKFarde&theme=swift" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VKFarde&theme=swift" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VKFarde&theme=swift" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VKFarde&theme=swift" height="180em" />
