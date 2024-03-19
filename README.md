@@ -47,7 +47,7 @@
 <div align="center">
   <h2>Tropfies</h2>
   <br>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VKFarde&theme=" alt="VKFarde" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VKFarde&theme=monokai" alt="VKFarde" /></a> </p>
   <br/>
 </div>
 <hr/>
@@ -59,8 +59,8 @@
 </div>
 <hr/>
 
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKFarde&langs_count=8&theme=gruvbox" alt=VKFarde />
+</div><h3 align="center">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKFarde&langs_count=8&theme=gruvbox" alt=VKFarde />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VKFarde&show_icons=true&locale=en&theme=gruvbox" alt="VKFarde" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VKFarde&theme=dark" alt="VKFarde" /></p>
