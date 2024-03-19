@@ -1,21 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VKFarde.VKFarde" />
 
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+vedant+farde!;" />
 </h1>
 <h4 align="center">A passionate software developer from India </h4>
+<div align="left">
+ 
+🔭 I’m currently working on **Life Force** 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Life Force**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, CSS, Redux, Firebase... or anything [here](https://github.com/VKFarde/VKFarde/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+🌱 I’m currently learning **AWS, Framer Motion, Next.js**<br/>
+💬 Ask me about **Node.js, React, CSS, Redux, Firebase... or anything [here](https://github.com/VKFarde/VKFarde/issues)**<br/>
+📫 How to reach me **vedantfarde@gmail.com**<br/>
+👨‍💻 All of my projects are available at **https://vedantfarde.netlify.app/**<br/>
+📄 Know about my experiences **https://drive.google.com/file/d/1hM_WUcTn5VYa5Ww_Xzm4h720pg-hnv51/view?usp=drive_link**<br/>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**<br/>
  </div>
  
 <div align="center"> 
